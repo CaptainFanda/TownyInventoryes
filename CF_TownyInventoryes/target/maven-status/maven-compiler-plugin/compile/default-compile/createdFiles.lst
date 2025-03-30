@@ -1,9 +1,0 @@
-PolitGame\CaptainFanda\Data\Messages.class
-PolitGame\CaptainFanda\Commands\InventoryCommand.class
-PolitGame\CaptainFanda\Service\InventoryService.class
-PolitGame\CaptainFanda\Data\TownsData.class
-PolitGame\CaptainFanda\Utils\LanguageManager.class
-PolitGame\CaptainFanda\Data\Config.class
-PolitGame\CaptainFanda\Listener\TownListener.class
-PolitGame\CaptainFanda\Listener\PlayerListener.class
-PolitGame\CaptainFanda\CF_TownyInventoryes.class
