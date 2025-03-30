@@ -1,0 +1,4 @@
+name: CF_TownyInventoryes
+version: '1.0'
+main: PolitGame.CaptainFanda.CF_TownyInventoryes
+api-version: '1.21'
